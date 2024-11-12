@@ -5,7 +5,6 @@ public class Main {
 
         System.out.println("포실포실");
         System.out.println("실포실포");
-        System.out.println("포실실포");
     }
 
 }
